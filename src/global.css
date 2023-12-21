@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.rootmain{
+    /* border: 1px solid black; */
+    background-color: #EEF5FF; 
+}
+.Gp{
+    /* border: 1px solid black; */
+    background-color:#9EB8D9;
+}
+.Pt{
+    /* border: 1px solid black; */
+    background-color:#7C93C3;
+}
+.Cd{
+    /* border: 1px solid black; */
+    background-color:#A25772;
+}
